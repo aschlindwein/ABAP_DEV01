@@ -1,4 +1,3 @@
-# ABAP_DEV01
-Testsystem DEV
+Report ZTESTABAP_HELLOW.
 
-Test für ABAP Git
+write: 'Hallo Git'.
